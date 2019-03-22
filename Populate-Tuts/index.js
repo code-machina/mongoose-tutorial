@@ -11,6 +11,6 @@ const user = new User({
 });
 
 
-User.deleteAll();
+// User.deleteAll();
 
 // console.log(user);
